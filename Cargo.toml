@@ -1,0 +1,6 @@
+[package]
+name = "rust_nth_fibonacci_number"
+version = "0.1.0"
+authors = ["Frederic Rey <Frederic.Rey.Pro@gmail.com>"]
+
+[dependencies]
